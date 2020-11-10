@@ -1,26 +1,8 @@
-# 03-photobooth
+# Photobooth
 
-* TODO: 1-2 description of how you organized your code for the assignment
-  
-  We separated our program into the front-end (MainWindow) and the back-end 
-  (CompositeModel). We put all the callbacks in MainWindow.
-  
-  (for the second part of the lab - filters)
-  We have a filter factory and then we added that to the compositeModel. We implemented all the filters in Filter.cs.
+This is a collaborative lab assignment between me and Yusuf Qaddura for Professor Aline Normoyle's Software Engineering class for Spring 2019. 
+(https://www.cs.swarthmore.edu/~alinen/cs71/labs/lab05.html)
 
-* TODO: Number of hours it took you to complete the assignment
+The project is to develop a photobooth application which users can add various gadgets of various sizes and apply additional effects to their image.
 
-  13
-  
-  (for the second part - filters)
-  
-  3
-
-* TODO: One thing you found annoying, interesting or challenging about the assignment
-
-  It took us a long time to understand delegates and callbacks. Once we got passed
-  the conceptual understanding, everything went much smoother. 
-  
-  (for the second part - filters)
-  
-  It took a while to figure out clamp.
+The project is written in C#. Some starter code is given by Professor Aline Normoyle. The project is for academic purposes only.
